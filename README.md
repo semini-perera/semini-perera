@@ -4,12 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=semini-perera&label=Profile%20views&color=0e75b6&style=flat" alt="semini-perera" /> </p>
 
 
----
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 -----
 ### My Topic
