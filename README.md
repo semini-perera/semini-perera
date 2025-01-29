@@ -21,8 +21,14 @@
 
 - ⚡ Fun fact **call me as SP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Feel Free to Contact me.....
+
+<p align="center">
+	<a href="https://github.com/semini-perera"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="www.linkedin.com/in/semini-perera-0131932b2"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href=""><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href=""><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
