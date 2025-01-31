@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Semini Perera</h1>
-<h3 align="center">A passionate developer from Sri lanka</h3>
+<h1 align="center">Hi 👋, I'm Semini Perera 👨🏻‍💻</h1>
+<h3 align="center">A passionate developer from Sri lanka </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=semini-perera&label=Profile%20views&color=0e75b6&style=flat" alt="semini-perera" /> </p>
 
@@ -19,9 +19,8 @@
 
 - 📫 How to reach me **seminip67@gmail.com**
 
-- ⚡ Fun fact **call me as SP**
-
-### Feel Free to Contact me.....
+- ⚡ Fun fact **I always try to learn something new and then sleep till it stores in my brain 😎**
+ ### Feel Free to Contact me.....
 
 <p align="center">
 	<a href="https://github.com/semini-perera"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
