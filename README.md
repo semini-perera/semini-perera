@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semini Perera 👨🏻‍💻</h1>
-<h3 align="center">A passionate developer from Sri lanka </h3>
+<h3 align="center">A passionate developer from Sri lanka <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=semini-perera&label=Profile%20views&color=0e75b6&style=flat" alt="semini-perera" /> </p>
 
