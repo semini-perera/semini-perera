@@ -16,7 +16,6 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **seminip67@gmail.com**
 
 - ⚡ Fun fact **I always try to learn something new and then sleep till it stores in my brain 😎**
  ### Feel Free to Contact me.....
